@@ -41,4 +41,4 @@ I solved several business problems using SQL aggregation, joins, and filtering:
 ## 🚀 How to Run the Queries
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/AnshikaSharma941/music_store_analysis_sql.git](https://github.com/AnshikaSharma941/music_store_analysis_sql.git)
